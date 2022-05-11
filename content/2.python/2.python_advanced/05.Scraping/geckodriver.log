@@ -1,0 +1,319 @@
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1652097734315	geckodriver	INFO	Listening on 127.0.0.1:58086
+1652097737367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58087" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileAG0HmP"
+1652097737684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileAG0HmP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58087/devtools/browser/4cef0106-c9bb-4040-9747-49966217afea
+1652097739476	Marionette	INFO	Listening on port 58092
+1652097739538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1652097740401	Marionette	INFO	Stopped listening on port 58092
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1652097845376	geckodriver	INFO	Listening on 127.0.0.1:58144
+1652097848441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58145" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilefjR2yh"
+1652097848794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilefjR2yh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58145/devtools/browser/966202b7-c4ee-4918-851a-72719506ead7
+1652097850649	Marionette	INFO	Listening on port 58150
+1652097851115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652097898261	Marionette	INFO	Stopped listening on port 58150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652097907671	geckodriver	INFO	Listening on 127.0.0.1:58359
+1652097910782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58360" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilejD4Jur"
+1652097911080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilejD4Jur\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58360/devtools/browser/5b468843-2f0b-4d09-b62d-24243b5cb750
+1652097912523	Marionette	INFO	Listening on port 58365
+1652097912827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652098151261	Marionette	INFO	Stopped listening on port 58365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58427" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilee4SBOi"
+1652097939835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilee4SBOi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58427/devtools/browser/5b2e553e-fec2-4323-94bb-95d501fe213a
+1652097941244	Marionette	INFO	Listening on port 58432
+1652097941597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652098008417	Marionette	INFO	Stopped listening on port 58432
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58489" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilexHzwvC"
+1652097980527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilexHzwvC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58489/devtools/browser/d1d98193-6baa-42a0-9008-36bf84932cf4
+1652097981988	Marionette	INFO	Listening on port 58495
+1652097982276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1652097983103	Marionette	INFO	Stopped listening on port 58495
+1652098042565	geckodriver	INFO	Listening on 127.0.0.1:58540
+1652098045643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58541" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileScInQP"
+1652098045976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileScInQP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58541/devtools/browser/858d767a-bafd-4b80-94f4-62f2d934be51
+1652098047785	Marionette	INFO	Listening on port 58546
+1652098048305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652098086906	Marionette	INFO	Stopped listening on port 58546
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652099032468	geckodriver	INFO	Listening on 127.0.0.1:58805
+1652099035544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58806" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilexb7Qh7"
+1652099035866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilexb7Qh7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58806/devtools/browser/af19c687-50ab-4ff8-a9ac-7d2b41266e7f
+1652099037651	Marionette	INFO	Listening on port 58811
+1652099037697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652099110817	Marionette	INFO	Stopped listening on port 58811
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58869" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileFMDlQ3"
+1652099066969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileFMDlQ3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58869/devtools/browser/4f7e7c87-21a2-465e-a137-d02207ad5964
+1652099068840	Marionette	INFO	Listening on port 58874
+1652099069319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652099109968	Marionette	INFO	Stopped listening on port 58874
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58932" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileZSElVP"
+1652099105917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileZSElVP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58932/devtools/browser/68da1e6c-b36c-4c74-adae-e8a1e163a846
+1652099107443	Marionette	INFO	Listening on port 58937
+1652099107690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1652099108644	Marionette	INFO	Stopped listening on port 58937
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652099164324	geckodriver	INFO	Listening on 127.0.0.1:58985
+1652099167358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58986" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileOWcZEq"
+1652099167639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileOWcZEq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58986/devtools/browser/126f48c9-4338-4c3f-b80d-792030de2ddc
+1652099169491	Marionette	INFO	Listening on port 58991
+1652099170007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652099329072	Marionette	INFO	Stopped listening on port 58991
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59131" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileu0m3fu"
+1652099234372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileu0m3fu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59131/devtools/browser/301f0442-9e64-4871-82dd-4170e4810de3
+1652099235964	Marionette	INFO	Listening on port 59136
+1652099236127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652099330192	Marionette	INFO	Stopped listening on port 59136
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59202" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileWVB7MG"
+1652099325306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileWVB7MG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59202/devtools/browser/679f1011-82ef-4dff-a155-b49f9e9ef7e1
+1652099327006	Marionette	INFO	Listening on port 59208
+1652099327060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652099327999	Marionette	INFO	Stopped listening on port 59208
+[Parent 17576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1652099334370	geckodriver	INFO	Listening on 127.0.0.1:59249
+1652099337432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59250" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileer0mX6"
+1652099337787	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileer0mX6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59250/devtools/browser/f51feb14-bc24-41f0-bbc9-94c9493d1bc2
+1652099339575	Marionette	INFO	Listening on port 59257
+1652099339595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652099340335	Marionette	INFO	Stopped listening on port 59257
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652099513474	geckodriver	INFO	Listening on 127.0.0.1:59316
+1652099516541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59317" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileHhOyIk"
+1652099516876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileHhOyIk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59317/devtools/browser/7b8cf11a-3417-4c93-af36-c233f037a4e2
+1652099518671	Marionette	INFO	Listening on port 59322
+1652099518695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652099544811	Marionette	INFO	Stopped listening on port 59322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652099724624	geckodriver	INFO	Listening on 127.0.0.1:59424
+1652099727662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59425" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileDZbThG"
+1652099727981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileDZbThG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59425/devtools/browser/61197c71-1c3c-4c75-99d9-0a6af2d2b3b3
+1652099729816	Marionette	INFO	Listening on port 59430
+1652099730329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652099736741	Marionette	INFO	Stopped listening on port 59430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652099816274	geckodriver	INFO	Listening on 127.0.0.1:59530
+1652099819323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59531" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileePrarb"
+1652099819657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileePrarb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59531/devtools/browser/4d64ce81-b255-4d39-8189-f7d551472a9d
+1652099821476	Marionette	INFO	Listening on port 59536
+1652099822000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652099834825	Marionette	INFO	Stopped listening on port 59536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652099864275	geckodriver	INFO	Listening on 127.0.0.1:59601
+1652099867339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59602" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileP1CAbA"
+1652099867680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileP1CAbA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59602/devtools/browser/22b00ec7-ffd6-4148-ab23-daddb8d70ac9
+1652099869518	Marionette	INFO	Listening on port 59607
+1652099869995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652099881434	Marionette	INFO	Stopped listening on port 59607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652100359124	geckodriver	INFO	Listening on 127.0.0.1:59737
+1652100362167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59738" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileYlVZcq"
+1652100362509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileYlVZcq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59738/devtools/browser/a99c043f-d0fa-4e02-991e-b8067363dd50
+1652100364392	Marionette	INFO	Listening on port 59743
+1652100364855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652100375532	Marionette	INFO	Stopped listening on port 59743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652100401532	geckodriver	INFO	Listening on 127.0.0.1:59811
+1652100404591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59812" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileLWfliI"
+1652100404891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofileLWfliI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59812/devtools/browser/923ded1b-769d-4824-bfbd-81729b6716ca
+1652100406371	Marionette	INFO	Listening on port 59817
+1652100406649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.geetest.com/static/js/fullpage.9.0.9.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652100418256	Marionette	INFO	Stopped listening on port 59817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652101013004	geckodriver	INFO	Listening on 127.0.0.1:49786
+1652101016074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49787" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilelKZjdO"
+1652101016377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilelKZjdO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49787/devtools/browser/ea9feabd-5492-4dd5-9044-67a9c4d3016d
+1652101018064	Marionette	INFO	Listening on port 49792
+1652101018110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652102499576	Marionette	INFO	Stopped listening on port 49792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+101107648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilevTBenM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49851/devtools/browser/7e131424-c4cc-4747-86ec-7481cd12c0cb
+1652101109592	Marionette	INFO	Listening on port 49859
+1652101109957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652102399725	Marionette	INFO	Stopped listening on port 49859
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652166719003	geckodriver	INFO	Listening on 127.0.0.1:62813
+1652166722082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62814" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilermWMv7"
+1652166722388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilermWMv7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62814/devtools/browser/1960fc6e-3609-41ea-ac0a-a306fc14201a
+1652166723841	Marionette	INFO	Listening on port 62819
+1652166724146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652166733644	Marionette	INFO	Stopped listening on port 62819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652168951433	geckodriver	INFO	Listening on 127.0.0.1:63556
+1652168954499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63557" "-no-remote" "-profile" "C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilegHZltf"
+1652168954758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dottz\\AppData\\Local\\Temp\\rust_mozprofilegHZltf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63557/devtools/browser/4b728bda-920d-4f16-b575-205159b3707c
+1652168956130	Marionette	INFO	Listening on port 63562
+1652168956542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1652169110773	Marionette	INFO	Stopped listening on port 63562
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
